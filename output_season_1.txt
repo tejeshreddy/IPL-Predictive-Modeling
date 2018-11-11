@@ -1,0 +1,472 @@
+Enter the season number:1
+
+
+--MATCH NO: 1 --
+[2, -1, -1]
+[2, 1]
+HOME For: 
+[2]
+toss won by home: 2
+
+
+--MATCH NO: 2 --
+[4, -1, -1]
+[4, 3]
+HOME For: 
+[4]
+toss won by away:
+
+
+--MATCH NO: 3 --
+[6, -1, -1]
+[6, 5]
+HOME For: 
+[6]
+toss won by away:
+
+
+--MATCH NO: 4 --
+[7, -1, -1]
+[7, 2]
+HOME For: 
+[7]
+toss won by home: 7
+
+
+--MATCH NO: 5 --
+[1, -1, -1]
+[1, 8]
+HOME For: 
+[1]
+toss won by away:
+
+
+--MATCH NO: 6 --
+[5, -1, -1]
+[5, 4]
+HOME For: 
+[5]
+toss won by away:
+
+
+--MATCH NO: 7 --
+[8, 11, -1]
+[8, 6]
+HOME For: 
+[8]
+toss won by home: 8
+
+
+--MATCH NO: 8 --
+[3, -1, -1]
+[3, 7]
+HOME For: 
+[3]
+toss won by away:
+
+
+--MATCH NO: 9 --
+[8, 11, -1]
+[8, 5]
+HOME For: 
+[8]
+toss won by away:
+
+
+--MATCH NO: 10 --
+[4, -1, -1]
+[4, 7]
+HOME For: 
+[4]
+toss won by away:
+
+
+--MATCH NO: 11 --
+[2, -1, -1]
+[2, 5]
+HOME For: 
+[2]
+toss won by away:
+
+
+--MATCH NO: 12 --
+[3, -1, -1]
+[3, 1]
+HOME For: 
+[3]
+toss won by away:
+
+
+--MATCH NO: 13 --
+[10, -1, -1]
+[7, 8]
+AWAY !
+[]
+
+
+--MATCH NO: 14 --
+[4, -1, -1]
+[4, 6]
+HOME For: 
+[4]
+toss won by away:
+
+
+--MATCH NO: 15 --
+[2, -1, -1]
+[2, 3]
+HOME For: 
+[2]
+toss won by away:
+
+
+--MATCH NO: 16 --
+[1, -1, -1]
+[1, 7]
+HOME For: 
+[1]
+toss won by home: 1
+
+
+--MATCH NO: 17 --
+[6, -1, -1]
+[6, 2]
+HOME For: 
+[6]
+toss won by away:
+
+
+--MATCH NO: 18 --
+[8, 11, -1]
+[8, 4]
+HOME For: 
+[8]
+toss won by away:
+
+
+--MATCH NO: 19 --
+[5, -1, -1]
+[5, 1]
+HOME For: 
+[5]
+toss won by home: 5
+
+
+--MATCH NO: 20 --
+[3, -1, -1]
+[3, 6]
+HOME For: 
+[3]
+toss won by home: 3
+
+
+--MATCH NO: 21 --
+[8, 11, -1]
+[8, 2]
+HOME For: 
+[8]
+toss won by home: 8
+
+
+--MATCH NO: 22 --
+[4, -1, -1]
+[4, 1]
+HOME For: 
+[4]
+toss won by home: 4
+
+
+--MATCH NO: 23 --
+[10, -1, -1]
+[7, 6]
+AWAY !
+[]
+
+
+--MATCH NO: 24 --
+[5, -1, -1]
+[5, 3]
+HOME For: 
+[5]
+toss won by away:
+
+
+--MATCH NO: 25 --
+[2, -1, -1]
+[2, 4]
+HOME For: 
+[2]
+toss won by away:
+
+
+--MATCH NO: 26 --
+[3, -1, -1]
+[3, 8]
+HOME For: 
+[3]
+toss won by away:
+
+
+--MATCH NO: 27 --
+[10, -1, -1]
+[7, 5]
+AWAY !
+[]
+
+
+--MATCH NO: 28 --
+[6, -1, -1]
+[6, 3]
+HOME For: 
+[6]
+toss won by away:
+
+
+--MATCH NO: 29 --
+[1, -1, -1]
+[1, 2]
+HOME For: 
+[1]
+toss won by home: 1
+
+
+--MATCH NO: 30 --
+[5, -1, -1]
+[5, 8]
+HOME For: 
+[5]
+toss won by home: 5
+
+
+--MATCH NO: 31 --
+[2, -1, -1]
+[2, 7]
+HOME For: 
+[2]
+toss won by away:
+
+
+--MATCH NO: 32 --
+[3, -1, -1]
+[3, 4]
+HOME For: 
+[3]
+toss won by away:
+
+
+--MATCH NO: 33 --
+[8, 11, -1]
+[8, 1]
+HOME For: 
+[8]
+toss won by away:
+
+
+--MATCH NO: 34 --
+[5, -1, -1]
+[5, 6]
+HOME For: 
+[5]
+toss won by home: 5
+
+
+--MATCH NO: 35 --
+[4, -1, -1]
+[4, 2]
+HOME For: 
+[4]
+toss won by away:
+
+
+--MATCH NO: 36 --
+[1, -1, -1]
+[1, 6]
+HOME For: 
+[1]
+toss won by home: 1
+
+
+--MATCH NO: 37 --
+[7, -1, -1]
+[7, 3]
+HOME For: 
+[7]
+toss won by home: 7
+
+
+--MATCH NO: 38 --
+[4, -1, -1]
+[4, 5]
+HOME For: 
+[4]
+toss won by away:
+
+
+--MATCH NO: 39 --
+[6, -1, -1]
+[6, 8]
+HOME For: 
+[6]
+toss won by away:
+
+
+--MATCH NO: 40 --
+[7, -1, -1]
+[7, 1]
+HOME For: 
+[7]
+toss won by home: 7
+
+
+--MATCH NO: 41 --
+[6, -1, -1]
+[6, 4]
+HOME For: 
+[6]
+toss won by home: 6
+
+
+--MATCH NO: 42 --
+[5, -1, -1]
+[5, 2]
+HOME For: 
+[5]
+toss won by away:
+
+
+--MATCH NO: 43 --
+[8, 11, -1]
+[8, 7]
+HOME For: 
+[8]
+toss won by home: 8
+
+
+--MATCH NO: 44 --
+[1, -1, -1]
+[1, 3]
+HOME For: 
+[1]
+toss won by home: 1
+
+
+--MATCH NO: 45 --
+[2, -1, -1]
+[2, 6]
+HOME For: 
+[2]
+toss won by away:
+
+
+--MATCH NO: 46 --
+[1, -1, -1]
+[1, 5]
+HOME For: 
+[1]
+toss won by away:
+
+
+--MATCH NO: 47 --
+[7, -1, -1]
+[7, 4]
+HOME For: 
+[7]
+toss won by home: 7
+
+
+--MATCH NO: 48 --
+[3, -1, -1]
+[3, 2]
+HOME For: 
+[3]
+toss won by away:
+
+
+--MATCH NO: 49 --
+[4, -1, -1]
+[4, 8]
+HOME For: 
+[4]
+toss won by home: 4
+
+
+--MATCH NO: 50 --
+[6, -1, -1]
+[6, 7]
+HOME For: 
+[6]
+toss won by home: 6
+
+
+--MATCH NO: 51 --
+[3, -1, -1]
+[3, 5]
+HOME For: 
+[3]
+toss won by away:
+
+
+--MATCH NO: 52 --
+[2, -1, -1]
+[2, 8]
+HOME For: 
+[2]
+toss won by away:
+
+
+--MATCH NO: 53 --
+[1, -1, -1]
+[1, 4]
+HOME For: 
+[1]
+toss won by away:
+
+
+--MATCH NO: 54 --
+[5, -1, -1]
+[5, 7]
+HOME For: 
+[5]
+toss won by home: 5
+
+
+--MATCH NO: 55 --
+[8, 11, -1]
+[8, 3]
+HOME For: 
+[8]
+toss won by home: 8
+
+
+--MATCH NO: 56 --
+[7, -1, -1]
+[6, 5]
+AWAY !
+[]
+
+
+--MATCH NO: 57 --
+[7, -1, -1]
+[3, 4]
+AWAY !
+[]
+
+
+--MATCH NO: 58 --
+[10, -1, -1]
+[3, 5]
+AWAY !
+[]
+
+
+
+
+
+SEASON 1 SUMMARY
+total matches: 59
+total home matches played on either of the teams pitch: 53
+total away matches,neither of their pitches: 6
+toss won + home teams: 22
+toss won + team won:  28
+host team + team won:  27
+toss won +team won + bat first team:  13
